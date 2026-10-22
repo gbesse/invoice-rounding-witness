@@ -1,0 +1,1 @@
+DESCRIPTION = {'fr': 'Expliquer les écarts entre arrondi par ligne et par catégorie de taxe', 'en': 'Explain differences between per-line and per-tax-category rounding', 'es': 'Explicar diferencias entre redondeo por línea y categoría fiscal'}

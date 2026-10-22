@@ -1,0 +1,17 @@
+{
+  "currency": "EUR",
+  "lines": [
+    {
+      "id": "a",
+      "net": "0.03",
+      "tax_code": "standard",
+      "tax_rate": "0.20"
+    },
+    {
+      "id": "b",
+      "net": "0.03",
+      "tax_code": "standard",
+      "tax_rate": "0.20"
+    }
+  ]
+}
